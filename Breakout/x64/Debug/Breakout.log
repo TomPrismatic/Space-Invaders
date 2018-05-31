@@ -1,0 +1,14 @@
+﻿  sprite.cpp
+  paddle.cpp
+  main.cpp
+  level.cpp
+  game.cpp
+  framecounter.cpp
+  entity.cpp
+  clock.cpp
+  brick.cpp
+  ball.cpp
+  background.cpp
+  backbuffer.cpp
+  Generating Code...
+  Breakout.vcxproj -> D:\Users\thomas.she7816\Documents\GitKraken\SpaceInvaders-GDI\x64\Debug\Breakout.exe
